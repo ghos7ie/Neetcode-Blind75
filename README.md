@@ -1,10 +1,10 @@
 # Neetcode-150
 Code used for Neetcode 150
 
-# Arrays and Hashing
-| Problem | Difficulty | Completion Date |
-| :--- | :--- | :--- |
-| Contains Duplicate | Easy | 2025/12/23 |
-| Valid Anagram | Easy | 2026/1/12 |
-| Two Sum | Easy | 2026/1/12 |
-| Group Anagrams | Medium | 2026/1/22 |
+| Problem | Category | Difficulty | Completion Date |
+| :--- | :--- | :--- | :--- |
+| Contains Duplicate | Arrays and Hashing | Easy | 2025/12/23 |
+| Valid Anagram | Arrays and Hashing | Easy | 2026/01/12 |
+| Two Sum | Arrays and Hashing | Easy | 2026/01/12 |
+| Group Anagrams | Arrays and Hashing | Medium | 2026/01/22 |
+| Valid Palindrome | Two Pointers | Easy | 2026/02/03 |
