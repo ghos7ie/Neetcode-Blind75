@@ -10,3 +10,5 @@ Code used for Neetcode 150
 | Valid Palindrome | Two Pointers | Easy | 2026/02/03 |
 | Top K Frequent Elements | Arrays and Hashing | Medium | 2026/02/05 |
 | Two Sum II Input Array Is Sorted | Two Pointers | Medium | 2026/02/07 |
+| Best Time to Buy And Sell Stock | Two Pointers | Easy | 2026/02/09 |
+ 
