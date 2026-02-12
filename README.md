@@ -1,5 +1,5 @@
-# Neetcode-150
-Code used for Neetcode 150
+# Blind-75
+Code used for Blind 75
 
 | Problem | Category | Difficulty | Completion Date |
 | :--- | :--- | :--- | :--- |
@@ -12,5 +12,6 @@ Code used for Neetcode 150
 | Two Sum II Input Array Is Sorted | Two Pointers | Medium | 2026/02/07 |
 | Best Time to Buy And Sell Stock | Two Pointers | Easy | 2026/02/09 |
 | Valid Parantheses | Stack | Easy | 2026/02/10 |
+| Reverse Linked List | Linked List | Easy | 2026/02/13 |
 
  
