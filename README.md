@@ -13,6 +13,6 @@ Code used for Blind 75
 | Best Time to Buy And Sell Stock | Two Pointers | Easy | 2026/02/09 |
 | Valid Parantheses | Stack | Easy | 2026/02/10 |
 | Reverse Linked List | Linked List | Easy | 2026/02/13 |
-| Reverse Linked List | Arrays and Hashing | Medium | 2026/02/25 |
+| Encode and Decode Strings | Arrays and Hashing | Medium | 2026/02/25 |
 
  
