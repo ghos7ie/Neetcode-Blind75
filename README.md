@@ -15,4 +15,4 @@ Code used for Blind 75
 | Reverse Linked List | Linked List | Easy | 2026/02/13 |
 | Encode and Decode Strings | Arrays and Hashing | Medium | 2026/02/25 |
 | Product of Array Except Self | Arrays and Hashing | Medium | 2026/02/25 |
- 
+| Binary Search | Binary Search | Easy | 2026/02/27 | 
