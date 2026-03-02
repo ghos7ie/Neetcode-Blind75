@@ -17,4 +17,4 @@ Code used for Blind 75
 | Product of Array Except Self | Arrays and Hashing | Medium | 2026/02/25 |
 | Binary Search | Binary Search | Easy | 2026/02/27 | 
 | Find Minimum in Rotated Array | Binary Search | Medium | 2026/03/02 | 
-| Climbing Stairs | 1D-DP | Medium | 2026/03/02 | 
+| Climbing Stairs | 1D-DP | Easy | 2026/03/02 | 
