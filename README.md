@@ -20,3 +20,4 @@ Code used for Blind 75
 | Climbing Stairs | 1D-DP | Easy | 2026/03/02 | 
 | House Robbers | 1D-DP | Medium | 2026/03/02 | 
 | Median Finder | Heap/PQ | Hard | 2026/03/03 | 
+| Merge 2 Sorted Linked Lists | Linked Lists | Easy | 2026/03/03 | 
