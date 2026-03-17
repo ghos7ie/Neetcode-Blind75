@@ -1,5 +1,5 @@
 # Blind-75
-Code used for Blind 75
+Code used for Neetcode stuff
 
 | Problem | Category | Difficulty | Completion Date |
 | :--- | :--- | :--- | :--- |
@@ -23,4 +23,5 @@ Code used for Blind 75
 | Merge 2 Sorted Linked Lists | Linked Lists | Easy | 2026/03/03 | 
 | Combination Sum | Backtracking | Medium | 2026/03/03 | 
 | Meeting Rooms I | Intervals | Easy | 2026/03/03 | 
-| Linked List Cycle Detection | Linked Lists | Easy | 2026/03/03 | 
+| Linked List Cycle Detection | Linked Lists | Easy | 2026/03/16 | 
+| Daily Temperature | Arrays and Hashing | Medium| 2026/03/17 | 
