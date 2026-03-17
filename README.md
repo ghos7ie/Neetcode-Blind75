@@ -24,4 +24,6 @@ Code used for Neetcode stuff
 | Combination Sum | Backtracking | Medium | 2026/03/03 | 
 | Meeting Rooms I | Intervals | Easy | 2026/03/03 | 
 | Linked List Cycle Detection | Linked Lists | Easy | 2026/03/16 | 
-| Daily Temperature | Arrays and Hashing | Medium| 2026/03/17 | 
+| Daily Temperature | Arrays and Hashing | Medium | 2026/03/17 | 
+| Kth Largest Element in Stream | Arrays and Hashing | Easy | 2026/03/17 | 
+| Kth Largest Element in Array | Arrays and Hashing | Medium | 2026/03/17 | 
