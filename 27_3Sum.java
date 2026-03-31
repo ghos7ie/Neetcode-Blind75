@@ -22,16 +22,16 @@ class Solution {
                     results.add(Arrays.asList(nums[i], nums[l], nums[r]));
                     l++;
                     r--;
+                    // shift left pointer until no dupes
+                    while (l < r && nums[l] == nums[l-1]) {
+                        l++;
+                    }
                 }
                 else if (sum > 0) {
                     r--; 
                 }    
                 else {
                     l++; // sum too small, increment l
-                }
-                // shift left pointer until no dupes
-                while (l < r && nums[l] == nums[l-1]) {
-                    l++;
                 }
             }
         }
