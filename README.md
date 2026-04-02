@@ -30,3 +30,4 @@ Code used for Neetcode stuff
 | Flood Fill | Matrix | Easy | 2026/03/19 |
 | 3Sum | Two Pointers | Medium | 2026/03/30 |
 | Container With Most Water | Two Pointers | Medium | 2026/03/31 |
+| Longest Substring Without Repeating Characters | Two Pointers | Medium | 2026/04/02 |
