@@ -33,3 +33,4 @@ Code used for Neetcode stuff
 | Longest Substring Without Repeating Characters | Two Pointers | Medium | 2026/04/02 |
 | Longest Repeating Character Replacement | Two Pointers | Medium | 2026/04/02 |
 | Minimum Window Substring | Two Pointers | Hard | 2026/04/02 |
+| Search in Rotated Array | Binary Search | Medium | 2026/04/03 | 
