@@ -36,3 +36,4 @@ Code used for Neetcode stuff
 | Search in Rotated Array | Binary Search | Medium | 2026/04/03 | 
 | Reorder Linked List | Linked Lists | Medium | 2026/04/04 | 
 | Remove Nth Node From End of Linked List | Linked Lists | Medium | 2026/04/06 | 
+| Merge k Sorted Linked Lists | Linked Lists | Hard | 2026/04/23 | 
