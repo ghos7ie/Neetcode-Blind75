@@ -37,3 +37,4 @@ Code used for Neetcode stuff
 | Reorder Linked List | Linked Lists | Medium | 2026/04/04 | 
 | Remove Nth Node From End of Linked List | Linked Lists | Medium | 2026/04/06 | 
 | Merge k Sorted Linked Lists | Linked Lists | Hard | 2026/04/23 | 
+| Max Depth of Binary Tree | Trees | Easy | 2026/04/26 | 
