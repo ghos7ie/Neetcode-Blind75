@@ -40,3 +40,4 @@ Code used for Neetcode stuff
 | Max Depth of Binary Tree | Trees | Easy | 2026/04/26 | 
 | Same Binary Tree | Trees | Easy | 2026/04/26 | 
 | Subtree of Another Tree | Trees | Easy | 2026/04/27 | 
+| Lowest Common Ancestor | Trees | Medium | 2026/04/28 | 
